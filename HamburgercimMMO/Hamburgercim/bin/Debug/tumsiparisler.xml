@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Siparis xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TumSiparisler>
+    <string>KingChicken 3 adet, Büyük boy ( Ketçap  ) Toplam 163,5 ₺</string>
+    <string>SteakHouse Menü 1 adet, Orta boy ( Buffalo  ) Toplam 52,25 ₺</string>
+    <string>Whooper Menü 4 adet, Küçük boy ( Buffalo  ) Toplam 200 ₺</string>
+    <string>SteakHouse Menü 3 adet, Büyük boy ( Buffalo  ) Toplam 163,5 ₺</string>
+  </TumSiparisler>
+  <Ciro>579.25</Ciro>
+  <ToplamSiparisSayisi>4</ToplamSiparisSayisi>
+  <EkstraMalzemeGeliri>20</EkstraMalzemeGeliri>
+  <SatılanUrunAdeti>11</SatılanUrunAdeti>
+</Siparis>

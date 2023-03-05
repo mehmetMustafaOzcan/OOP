@@ -1,0 +1,60 @@
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\bin\Debug\Hamburgercim.exe.config
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\bin\Debug\Hamburgercim.exe
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\bin\Debug\Hamburgercim.pdb
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.Form1.resources
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.Properties.Resources.resources
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.csproj.GenerateResource.cache
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.exe
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.pdb
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.EkstraMazlemeEkle.resources
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.SiparisEkrani.resources
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.TumSiparisler.resources
+C:\Users\ÖZCAN\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.MenuEkle.resources
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\bin\Debug\Hamburgercim.exe.config
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\bin\Debug\Hamburgercim.exe
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\bin\Debug\Hamburgercim.pdb
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.csproj.AssemblyReference.cache
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.EkstraMazlemeEkle.resources
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.Form1.resources
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.SiparisEkrani.resources
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.TumSiparisler.resources
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.MenuEkle.resources
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.Properties.Resources.resources
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.csproj.GenerateResource.cache
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.exe
+C:\Users\mehmet.ozcan\Desktop\Hamburgerci Projesi\Hamburgercim\Hamburgercim\obj\Debug\Hamburgercim.pdb
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\bin\Debug\Hamburgercim.exe.config
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\bin\Debug\Hamburgercim.exe
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\bin\Debug\Hamburgercim.pdb
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.EkstraMazlemeEkle.resources
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.Form1.resources
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.SiparisEkrani.resources
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.TumSiparisler.resources
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.MenuEkle.resources
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.Properties.Resources.resources
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.csproj.GenerateResource.cache
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.exe
+C:\Users\ÖZCAN\Desktop\Hamburgercim23,02\Hamburgercim\obj\Debug\Hamburgercim.pdb
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\bin\Debug\Hamburgercim.exe.config
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\bin\Debug\Hamburgercim.exe
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\bin\Debug\Hamburgercim.pdb
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.EkstraMazlemeEkle.resources
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.Form1.resources
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.SiparisEkrani.resources
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.TumSiparisler.resources
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.MenuEkle.resources
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.Properties.Resources.resources
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.csproj.GenerateResource.cache
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.exe
+C:\Users\ÖZCAN\Desktop\HamburgercimMMO\Hamburgercim\obj\Debug\Hamburgercim.pdb
