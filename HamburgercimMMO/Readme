@@ -1,0 +1,6 @@
+Hamburger sipariş ekranı ilk OOP çalışması
+windows form üzerinde yapılmıştır
+Sİpariş verme ekranı ile sipariş verilir verile nsiparişler tüm siparişlerim ekranına düşer
+tüm siparişlerim bilgisayara yüklenir ve tüm siparişlerim program kapansa dahi silinmez veriler sürekli bilgsayardan çekilir
+aynı zamanda menü ekleme ve ekstra malzeme ekleme ekranları vardır bu ekranlardan ekstra malzeme ve menü eklemesi yapılmaktadır.
+tüm hata kontrolleri yapılmıştır.
