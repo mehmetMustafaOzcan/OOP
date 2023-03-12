@@ -10,12 +10,14 @@ namespace wfaMağazaYonetim.Models
     public class Kategori : ICollection<Urun>
    {
         public string Ad { get; set; }
-        public int KategoriID { get; }
+        public static int KategoriID { get; private set; }
         private ICollection<Urun> Uruns { get; set; }
         public Kategori()
         {
             Uruns = new List<Urun>();
             KategoriID++;
+            Kategoriler.Instance.Add(this);
+            
         }
         public int Count => Uruns.Count();
 
@@ -43,7 +45,7 @@ namespace wfaMağazaYonetim.Models
 
         public IEnumerator<Urun> GetEnumerator()
         {
-            throw new NotImplementedException();
+            return Uruns.GetEnumerator();
         }
 
         public bool Remove(Urun item)
@@ -54,6 +56,10 @@ namespace wfaMağazaYonetim.Models
         IEnumerator IEnumerable.GetEnumerator()
         {
             throw new NotImplementedException();
+        }
+        public override string ToString()
+        {
+            return $"{Ad}";
         }
     }
 }

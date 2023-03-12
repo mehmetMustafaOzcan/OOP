@@ -7,22 +7,35 @@ using System.Threading.Tasks;
 
 namespace wfaMağazaYonetim.Models
 {
-    internal class Kategoriler:ICollection<Urun>
+    internal class Kategoriler : ICollection<Kategori>
     {
-        private ICollection<Urun> Kategori { get; set; }
-        public static Kategoriler Instance { get; set; }
+        private ICollection<Kategori> Kategori { get; set; }
+
         private Kategoriler()
         {
-            Kategori = new List<Urun>();
+            Kategori = new List<Kategori>();
         }
+        private static Kategoriler _instance;
+
+        public static Kategoriler Instance
+        {
+            get
+            {
+                if (_instance == null)
+                {
+                    _instance = new Kategoriler();
+                }
+                return _instance;
+            }
+        }
+
         public string Ad { get; set; }
 
+        public int Count => throw new NotImplementedException();
 
-        public int Count => Kategori.Count();
+        public bool IsReadOnly => throw new NotImplementedException();
 
-        public bool IsReadOnly => Kategori.IsReadOnly;
-
-        public void Add(Urun item)
+        public void Add(Kategori item)
         {
             Kategori.Add(item);
         }
@@ -32,29 +45,30 @@ namespace wfaMağazaYonetim.Models
             Kategori.Clear();
         }
 
-        public bool Contains(Urun item)
+        public bool Contains(Kategori item)
         {
             return Kategori.Contains(item);
         }
 
-        public void CopyTo(Urun[] array, int arrayIndex)
+        public void CopyTo(Kategori[] array, int arrayIndex)
         {
             Kategori.CopyTo(array, arrayIndex);
         }
 
-        public IEnumerator<Urun> GetEnumerator()
-        {
-            return Kategori.GetEnumerator();
-        }
-
-        public bool Remove(Urun item)
+        public bool Remove(Kategori item)
         {
             return Kategori.Remove(item);
         }
 
+        public IEnumerator<Kategori> GetEnumerator()
+        {
+           return Kategori.GetEnumerator();
+        }
+
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return null;
+            throw new NotImplementedException();
         }
+       
     }
 }

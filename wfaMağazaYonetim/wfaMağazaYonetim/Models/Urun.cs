@@ -11,8 +11,18 @@ namespace wfaMağazaYonetim.Models
         public string Ad { get; set; }
         public decimal Fiyat { get; set; }
         public string Tedarikci { get; set; }
+        public int StokDurum { get; set; }
         public DateTime UretimTarihi { get; set; }
-        
+        private static int _urunID=100001;
+
+        public int UrunID { get;private set; }
+
+
+        public Urun()
+        {
+            UrunID = _urunID++;
+            
+        }
         private Kategori _kategori;
 
         public Kategori Kategori

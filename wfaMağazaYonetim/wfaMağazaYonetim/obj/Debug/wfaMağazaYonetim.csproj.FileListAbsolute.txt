@@ -10,3 +10,17 @@ C:\Users\ÖZCAN\Desktop\deneme klasörü\wfaMağazaYonetim\wfaMağazaYonetim\obj
 C:\Users\ÖZCAN\Desktop\deneme klasörü\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.csproj.CoreCompileInputs.cache
 C:\Users\ÖZCAN\Desktop\deneme klasörü\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.exe
 C:\Users\ÖZCAN\Desktop\deneme klasörü\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.pdb
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\bin\Debug\wfaMağazaYonetim.exe.config
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\bin\Debug\wfaMağazaYonetim.exe
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\bin\Debug\wfaMağazaYonetim.pdb
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.csproj.AssemblyReference.cache
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.Form1.resources
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.Properties.Resources.resources
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.TumUrunStok.resources
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.UrunKontrol.resources
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.csproj.GenerateResource.cache
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.csproj.CoreCompileInputs.cache
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.exe
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.pdb
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.UrunStok.resources

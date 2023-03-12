@@ -58,11 +58,23 @@
     <Compile Include="Models\Urun.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TumUrunStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TumUrunStok.Designer.cs">
+      <DependentUpon>TumUrunStok.cs</DependentUpon>
+    </Compile>
     <Compile Include="UrunKontrol.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UrunKontrol.Designer.cs">
       <DependentUpon>UrunKontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunStok.Designer.cs">
+      <DependentUpon>UrunStok.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -76,8 +88,14 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="TumUrunStok.resx">
+      <DependentUpon>TumUrunStok.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UrunKontrol.resx">
       <DependentUpon>UrunKontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunStok.resx">
+      <DependentUpon>UrunStok.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
