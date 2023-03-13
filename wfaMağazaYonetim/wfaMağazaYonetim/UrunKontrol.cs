@@ -44,6 +44,28 @@ namespace wfaMağazaYonetim
             
         }
 
-      
+        private void ürünEkleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UrunEkle urunekleme = new UrunEkle();
+            urunekleme.MdiParent = this;
+            urunekleme.Show();
+        }
+
+        private void kategorilerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void stokKontrolToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ürünGüncelleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UrunGuncelle_Sil guncellesil = new UrunGuncelle_Sil();
+            guncellesil.MdiParent = this;
+            guncellesil.Show();
+        }
     }
 }

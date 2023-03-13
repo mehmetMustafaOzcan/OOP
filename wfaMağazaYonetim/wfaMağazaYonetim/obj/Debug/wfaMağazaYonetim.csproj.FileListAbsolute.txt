@@ -24,3 +24,5 @@ C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Deb
 C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.exe
 C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.pdb
 C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.UrunStok.resources
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.UrunEkle.resources
+C:\Users\ÖZCAN\Documents\GitHub\OOP\wfaMağazaYonetim\wfaMağazaYonetim\obj\Debug\wfaMağazaYonetim.UrunGuncelle_Sil.resources

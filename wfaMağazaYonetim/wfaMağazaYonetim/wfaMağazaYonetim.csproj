@@ -53,6 +53,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\Fonksiyonlar.cs" />
     <Compile Include="Models\Kategori.cs" />
     <Compile Include="Models\Kategoriler.cs" />
     <Compile Include="Models\Urun.cs" />
@@ -63,6 +64,18 @@
     </Compile>
     <Compile Include="TumUrunStok.Designer.cs">
       <DependentUpon>TumUrunStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="urunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="urunEkle.Designer.cs">
+      <DependentUpon>urunEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunGuncelle-Sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunGuncelle-Sil.Designer.cs">
+      <DependentUpon>UrunGuncelle-Sil.cs</DependentUpon>
     </Compile>
     <Compile Include="UrunKontrol.cs">
       <SubType>Form</SubType>
@@ -90,6 +103,12 @@
     </Compile>
     <EmbeddedResource Include="TumUrunStok.resx">
       <DependentUpon>TumUrunStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="urunEkle.resx">
+      <DependentUpon>urunEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunGuncelle-Sil.resx">
+      <DependentUpon>UrunGuncelle-Sil.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UrunKontrol.resx">
       <DependentUpon>UrunKontrol.cs</DependentUpon>
